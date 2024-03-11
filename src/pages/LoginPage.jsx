@@ -62,7 +62,7 @@ export default function LoginPage() {
             <p >Welcome back, Please enter your details</p>
             </div>
             <input required className="rounded-md px-2 py-[4px]" type="text" name="username" id="" placeholder="Username"/>
-            <input required className="rounded-md px-2 py-[4px]" type="password" name="password" id="" placeholder="Set your password"/>
+            <input required className="rounded-md px-2 py-[4px]" type="password" name="password" id="" placeholder="Enter Your password"/>
             <div className='text-sm flex items-center justify-between'>
                 <div className='flex items-center gap-2'>
                     <input type="checkbox" name="" id="" />
